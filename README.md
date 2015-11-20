@@ -1,5 +1,7 @@
 # getting_and_cleaning_data
 coursera course Getting and Cleaning Data
+got some help from dengyunsun
+
 ## Course Project
 (find all project-related materials in the UCI HAR Dataset directory, 
 however, copies of the important files have been put into this main directory to fulfill the submission requirement)
